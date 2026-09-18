@@ -2,25 +2,25 @@
 
 My solutions to [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z) (474 problems), organized by sheet step.
 
-> **Progress: 0 / 474** ✅
+> **Progress: 283 / 474** ✅
 
 | Step | Topic | Problems | Status |
 |------|-------|----------|--------|
 | 1 | Learn the Basics | 31 | 🔄 In Progress |
-| 2 | Learn Important Techniques | 6 | ⬜ Not Started |
-| 3 | Solve Problems on Arrays | 40 | ⬜ Not Started |
-| 4 | Binary Search Problems | 32 | ⬜ Not Started |
-| 5 | Solve Problems on Strings | 15 | ⬜ Not Started |
-| 6 | Solve Problems on LinkedList | 31 | ⬜ Not Started |
-| 7 | Recursion (PatternWise) | 25 | ⬜ Not Started |
-| 8 | Bit Manipulation | 18 | ⬜ Not Started |
-| 9 | Stacks and Queues | 30 | ⬜ Not Started |
-| 10 | Sliding Window & Two Pointer | 12 | ⬜ Not Started |
-| 11 | Heaps | 12 | ⬜ Not Started |
+| 2 | Learn Important Techniques | 6 | ✅  Done |
+| 3 | Solve Problems on Arrays | 40 | ✅ Done |
+| 4 | Binary Search Problems | 32 | 🔄 In Progress |
+| 5 | Solve Problems on Strings | 15 | ✅ Done |
+| 6 | Solve Problems on LinkedList | 31 | 🔄 In Progress |
+| 7 | Recursion (PatternWise) | 25 | 🔄 In Progress |
+| 8 | Bit Manipulation | 18 | 🔄 In Progress |
+| 9 | Stacks and Queues | 30 | 🔄 In Progress |
+| 10 | Sliding Window & Two Pointer | 12 | 🔄 In Progress |
+| 11 | Heaps | 12 | 🔄 In Progress |
 | 12 | Greedy Algorithms | 16 | ⬜ Not Started |
-| 13 | Binary Trees | 39 | ⬜ Not Started |
-| 14 | Binary Search Trees | 16 | ⬜ Not Started |
-| 15 | Graphs | 54 | ⬜ Not Started |
+| 13 | Binary Trees | 39 | ✅   Done |
+| 14 | Binary Search Trees | 16 | 🔄 In Progress |
+| 15 | Graphs | 54 | 🔄 In Progress |
 | 16 | Dynamic Programming | 56 | ⬜ Not Started |
 | 17 | Tries | 7 | ⬜ Not Started |
 | 18 | Strings | 9 | ⬜ Not Started |
@@ -62,4 +62,4 @@ DSA/
 ## 🔗 Connect
 
 - Sheet: [takeuforward.org — Striver's A2Z Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
-- LeetCode: [leetcode.com](https://leetcode.com) · GfG: [geeksforgeeks.org](https://geeksforgeeks.org)
+- LeetCode: [leetcode.com](https://leetcode.com/u/umar_khxn/) · GfG: [geeksforgeeks.org](https://www.geeksforgeeks.org/profile/umark78bvf)
